@@ -1,0 +1,5 @@
+﻿  functions.cpp
+c1xx : fatal  error C1083: Не удается открыть файл источник: ..\ConsoleApplication4\functions.cpp: No such file or directory,
+  Header.cpp
+c1xx : fatal  error C1083: Не удается открыть файл источник: ..\ConsoleApplication4\Header.cpp: No such file or directory,
+  Создание кода...

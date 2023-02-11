@@ -1,0 +1,5 @@
+﻿  structure_sem3_laba2.cpp
+C:\Users\vovap\source\repos\structure_sem3_laba2\structure_sem3_laba2.cpp(117,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\vovap\source\repos\structure_sem3_laba2\structure_sem3_laba2.cpp(125,21): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\vovap\source\repos\structure_sem3_laba2\structure_sem3_laba2.cpp(166,36): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  structure_sem3_laba2.vcxproj -> C:\Users\vovap\source\repos\structure_sem3_laba2\x64\Debug\structure_sem3_laba2.exe

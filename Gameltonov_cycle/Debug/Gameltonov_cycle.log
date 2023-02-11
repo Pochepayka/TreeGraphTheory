@@ -1,0 +1,3 @@
+﻿  Gameltonov_cycle.cpp
+C:\Users\Я\source\repos\Gameltonov_cycle\Gameltonov_cycle.cpp(55,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Gameltonov_cycle.vcxproj -> C:\Users\Я\source\repos\Gameltonov_cycle\Debug\Gameltonov_cycle.exe
